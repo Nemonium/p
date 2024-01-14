@@ -15,12 +15,12 @@
             "github_handle": ""
         },
         "company": {
-            "name": "$SKULL"
+            "name": "$OMEN"
         },
         "about": {
             "me": "This stakepool provides safe, secure and reliable staking for the delegators, while supporting the Nemonium self-sustaining Ecosystem",
             "server": "3x Ubuntu 20.04 servers 30 gig ram, 8 core cpu",
-            "company": "https://nemo.global/"
+            "company": "https://nemonium.art/"
     },
     "my-pool-ids": {
         "0": "pool1h0v99elmvl50rqk778ue6g49r3mtgq3z4draq6pzy0nqv000frd",
