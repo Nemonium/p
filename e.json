@@ -7,7 +7,7 @@
             "instagram_handle": "",
             "discord_handle": "",
             "reddit_handle": "",
-            "twitter_handle": "_nemonium",
+            "twitter_handle": "omen4omen",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -20,7 +20,7 @@
         "about": {
             "me": "This stakepool provides safe, secure and reliable staking for the delegators, while supporting the Nemonium self-sustaining Ecosystem",
             "server": "3x Ubuntu 20.04 servers 30 gig ram, 8 core cpu",
-            "company": "https://nemonium.art/"
+            "company": "https://nemonium.com/"
     },
     "my-pool-ids": {
         "0": "pool1h0v99elmvl50rqk778ue6g49r3mtgq3z4draq6pzy0nqv000frd",
